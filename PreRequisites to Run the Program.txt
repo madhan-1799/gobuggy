@@ -1,0 +1,7 @@
+
+install tkinter
+install sv-ttk
+install webbrowser
+
+The main program can be run from main_page.py
+Open the main_page and press F5
